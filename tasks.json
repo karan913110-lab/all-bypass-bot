@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Foundit",
+    "clickid_key": "cl",
+    "example": "https://foundit.sng.link/...&cl={clickid}",
+    "postbacks": [
+      "http://gridadss.pamperimagination.com/conv?yeahmobi_install&transaction_id={clickid}",
+      "http://gridadss.pamperimagination.com/conv?yeahmobi_ocpa&transaction_id={clickid}&event=register"
+    ]
+  }
+]
